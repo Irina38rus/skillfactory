@@ -1,2 +1,2 @@
 # skillfactory
-домашния задания курса skillfactory.ru "Тестировщик-автоматизатор на Python (QAP)"
+домашние задания курса skillfactory.ru "Тестировщик-автоматизатор на Python (QAP)"
